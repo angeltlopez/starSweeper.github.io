@@ -1,0 +1,67 @@
+{
+  "IcoMoonType": "selection",
+  "icons": [
+    {
+      "icon": {
+        "paths": [
+          "M362.4 231.2c-90.56 52.32-166.080 96.64-167.52 98.56-2.72 3.2-2.88 15.040-2.88 199.2 0 213.12-0.48 201.76 8.96 210.4 5.76 5.28 299.2 174.88 307.2 177.44 12 4 14.24 2.88 120.8-58.72 55.84-32.16 129.6-74.72 163.84-94.4 34.4-19.84 64.16-37.6 66.24-39.52 2.080-1.76 5.12-6.24 6.72-9.76 2.88-6.080 3.040-15.040 3.040-192.8 0-177.92-0.16-186.56-2.88-191.2-2.4-3.68-39.68-26.080-167.2-99.68-90.24-52-165.76-94.72-167.84-94.72s-77.76 42.88-168.48 95.2zM458.080 324l38.24 39.2h-49.92v140.8h155.2v-148.8h65.6v345.44l34.080 0.96-33.44 40c-18.56 21.92-34.24 40-35.040 40-1.44 0-66.080-77.44-66.24-79.52-0.16-0.64 7.52-1.44 17.12-1.6l17.12-0.48v-131.2l-73.12-0.48-73.28-0.32-0.32 69.92-0.48 70.080h-68.8l-0.48-172.48-0.32-172.32h-44l39.2-39.2c21.6-21.6 39.52-39.2 40-39.2s17.92 17.6 38.88 39.2z"
+        ],
+        "attrs": [
+          {}
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "HackerRankIcon"
+        ]
+      },
+      "attrs": [
+        {}
+      ],
+      "properties": {
+        "order": 9,
+        "id": 3,
+        "name": "HackerRankIcon",
+        "prevSize": 32,
+        "code": 59648
+      },
+      "setIdx": 1,
+      "setId": 3,
+      "iconIdx": 0
+    }
+  ],
+  "height": 1024,
+  "metadata": {
+    "name": "icomoon"
+  },
+  "preferences": {
+    "showGlyphs": true,
+    "showQuickUse": true,
+    "showQuickUse2": true,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "icon-",
+      "metadata": {
+        "fontFamily": "icomoon"
+      },
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      },
+      "embed": false
+    },
+    "imagePref": {
+      "prefix": "icon-",
+      "png": true,
+      "useClassSelector": true,
+      "color": 0,
+      "bgColor": 16777215,
+      "classSelector": ".icon"
+    },
+    "historySize": 50,
+    "showCodes": true,
+    "gridSize": 16
+  }
+}
